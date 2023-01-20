@@ -7,3 +7,5 @@
 To have a line break without a paragraph, you will need to use two trailing spaces. Note that this line is separate, but within the same paragraph... 
 (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.) Unordered list can use asterisks - or minuses + or pluses Emphasis, aka italics, with asterisks or underscores Strong emphasis, aka bold, with asterisks or _underscores Combined emphasis with asterisks and underscores.
 ** Strikethrough uses two tildes. Scratch this.~~
+
+New changes from Lisa
